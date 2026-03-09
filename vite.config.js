@@ -8,5 +8,5 @@ export default defineConfig({
     vue(),
     tailwindcss(),
   ],
-  base: '/freakalimortal.github.io/to-do-list/'
+  base: '/to-do-list/'
 })
